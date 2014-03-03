@@ -1,0 +1,4 @@
+depot
+=====
+
+Simple depot application
